@@ -1,0 +1,12 @@
+unknown_command	Unknown command. Please try this:
+add_command_info	Type "add {name} {url}" to add new url.
+remove_command_info	Type "remove {name or number}" to remove url.
+get_command_info	Type "get" to get URL List.
+exit_command_info	Type "exit" to exit from app.
+open_command_info	Type "open {name or number}" to open url.
+help_command_info	Type "help" to show all commands.
+wrong_count_arguments	Wrong count of arguments.
+url_list	---URL List---
+help_list	---Help List---
+not_found_web_info	Requested url wasn't found.
+index_out_of_range	Input index is out of URL List.
